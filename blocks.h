@@ -6,7 +6,7 @@ static const Block blocks[] = {
 	{"", "bar_update_microphone",           0,		7},
 	{"", "bar_update_volume",               0,		11},
 	{"", "bar_update_bluetooth",            0,		2},
-	{"", "bar_update_wifi",                 0,		12},
+	{"", "bar_update_wifi",                60,		12},
 	{"", "bar_update_datetime",            60,		6},
 };
 
