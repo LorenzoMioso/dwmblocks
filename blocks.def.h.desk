@@ -2,6 +2,8 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	{"", "bar_update_packages",            60,		8},
+	{"", "bar_update_cpu",                 60,		4},
+	{"", "bar_update_ram",                 60,		9},
 	{"", "bar_update_datetime",            60,		6},
 };
 
