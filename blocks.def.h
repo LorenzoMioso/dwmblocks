@@ -4,6 +4,7 @@ static const Block blocks[] = {
 	{"", "bar_update_packages",            60,		8},
 	{"", "bar_update_cpu",                  1,		4},
 	{"", "bar_update_ram",                  1,		9},
+	{"", "bar_update_vpn",                 60,	   13},
 	{"", "bar_update_datetime",            60,		6},
 };
 
