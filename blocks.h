@@ -5,7 +5,6 @@ static const Block blocks[] = {
 
     {"", "bar_update_packages", 12 * 60 * 60, 8},
     {"", "bar_update_battery", 60, 1},
-    {"", "bar_update_brightness", 0, 3},
     {"", "bar_update_microphone", 0, 7},
     {"", "bar_update_volume", 0, 11},
     {"", "bar_update_bluetooth", 0, 2},
